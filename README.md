@@ -1,2 +1,2 @@
-# JhsfJang.github.io
+# jhsfjng.github.io
 Jihye's personal webpage
